@@ -16,3 +16,5 @@
 06.10.23  конспект по python: https://docs.google.com/document/d/1jwE27z3xjXLeQwOyNmmtipD2Py-yFO6kdnxzHLIh4X0/edit?usp=sharing
 
 06.10.23 задания по python: https://docs.google.com/document/d/1e3rYkr41QjWwjdwq2Z8iRcH129zMzSL19tTgGoB9wTY/edit?usp=sharing
+
+bluefish and pycharm: https://docs.google.com/document/d/18cETZRFiMzgVvR5ri8V8NxBINjTF0vfxVZSQWs0koKU/edit?usp=sharing
