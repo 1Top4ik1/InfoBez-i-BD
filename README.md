@@ -10,3 +10,5 @@
 26.10.23.python: https://docs.google.com/document/d/1obErbUzAFzsz_0Ds5IxtIdbqhqbZve_WSo4fj94Qksc/edit?usp=sharing
 
 27.10.23.python: https://docs.google.com/document/d/1ar27K8TmSy5_uLeUoJFlPoPpR3gjEuHJiOYspQ-lXRM/edit?usp=sharing
+
+30.10.23.python: https://docs.google.com/document/d/13fndzcsQpUXQXaH6jzifXSwIprgPtpxxPR7QTnmzwxo/edit?usp=sharing
