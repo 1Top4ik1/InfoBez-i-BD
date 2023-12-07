@@ -15,6 +15,8 @@ bluefish and pycharm: https://docs.google.com/document/d/18cETZRFiMzgVvR5ri8V8Nx
 
 07.12.23 sait avtosalon на конкурс made on Tilda: https://tilda.cc/projects/?projectid=8270144
 
+07.12.23 sait restoran по УП:
+
 
 
 
