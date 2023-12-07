@@ -12,6 +12,7 @@
 06.10.23 задания по python: https://docs.google.com/document/d/1e3rYkr41QjWwjdwq2Z8iRcH129zMzSL19tTgGoB9wTY/edit?usp=sharing
 
 bluefish and pycharm: https://docs.google.com/document/d/18cETZRFiMzgVvR5ri8V8NxBINjTF0vfxVZSQWs0koKU/edit?usp=sharing
+
 07.12.23 sait avtosalon на конкурс made on Tilda: https://tilda.cc/projects/?projectid=8270144
 
 
