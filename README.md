@@ -13,7 +13,7 @@
 
 bluefish and pycharm: https://docs.google.com/document/d/18cETZRFiMzgVvR5ri8V8NxBINjTF0vfxVZSQWs0koKU/edit?usp=sharing
 
-07.12.23 sait avtosalon на конкурс made on Tilda: https://tilda.cc/projects/?projectid=8270144
+07.12.23 sait avtosalon на конкурс made on Tilda: [https://tilda.cc/projects/?projectid=8270144](http://driverrentcar.tilda.ws/)
 
 07.12.23 sait restoran по УП: https://1top4ik1.github.io/saitrest_up1/1.html
 
