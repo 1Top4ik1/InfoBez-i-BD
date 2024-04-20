@@ -1,5 +1,5 @@
 # InfoBase_and_Database
-![itog](https://github.com/1Top4ik1/InfoBez-i-BD/assets/144005453/25bdc0f3-ad89-4274-af8a-92663952488d)
+
 
 Папка МДК 12.01 со всеми работами: https://drive.google.com/drive/folders/1-GTu7U7AbG-MKZmo8Gm2osoFvmRMKcFF
 
