@@ -7,6 +7,19 @@
 
 Курс степика по языку SQL(файлы):https://drive.google.com/drive/folders/1XQhIdFoIWSm7qYrNjn3G00mi6O2geHil?usp=sharing
 
+Разработка бд микросхемы: https://drive.google.com/drive/folders/1P3_FAbwPbyrq-U3IwGMP6a9XbzOUXfmY?usp=sharing
+
+Разработка бд туры:https://drive.google.com/drive/folders/1K4svRkR3uOl-9U448KSoGfybWpNQXWqa?usp=sharing
+
+
+
+
+
+
+
+
+
+
 
 Папка МДК 12.01 со всеми работами: https://drive.google.com/drive/folders/1-GTu7U7AbG-MKZmo8Gm2osoFvmRMKcFF
 
