@@ -17,6 +17,10 @@
 .                                                                                                .
 .                                                                                                .
 ..................................................................................................
+
+
+
+
 Папка МДК 12.01 со всеми работами: https://drive.google.com/drive/folders/1-GTu7U7AbG-MKZmo8Gm2osoFvmRMKcFF
 
 09.10.23 09.10.23 конспект по БД и СУБД : https://docs.google.com/document/d/1xAeckTTQ2eGfsvaHNObcDQ0Vt_wrFqWZf3Vxa7mS4Nk/edit?usp=sharing 
